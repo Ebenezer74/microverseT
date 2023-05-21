@@ -1,3 +1,28 @@
-body {
-    background: navy;
+*{background:skyblue;
+    margin-top: 0.2rem;
+}
+
+img{
+    display: flexbox;
+    width: 30%;
+    height: 20rem;
+    border-radius: 3rem;
+}
+
+h1{
+    color: white;
+
+}
+
+#welcome-section h1{
+    color: crimson;
+}
+
+#navbar a{
+    font-size: 3rem;
+    display: inline-flex;
+    text-decoration-style: none;
+    justify-content: flex;
+    padding: 20px;
+    margin: 20px;
 }
